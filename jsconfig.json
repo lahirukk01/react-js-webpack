@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+      "paths": {
+      "@awac/*": ["./src/*"]
+    }
+  },
+  "exclude": ["node_modules", "build"]
+}

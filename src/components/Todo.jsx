@@ -1,7 +1,7 @@
 const Todo = () => {
   return (
     <div>
-      <h1>Todo</h1>
+      <h1>TodoItem</h1>
     </div>
   );
 };
